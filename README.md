@@ -1,7 +1,7 @@
 # FSorter or Image Sorter
 A quick image sorter with option to take input of labelled data, It can even search in sub folders for image files and sorts images. Images are copied in a directory named Sorted with sub directories as faceID's.
 
-![alt text](https://github.com/Pranav0-0Aggarwal/FSorter/blob/main/APP.png?raw=true)
+![alt text]()
 
 ## Capabilities
 * Multiprocessing to reduce image processing time
